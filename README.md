@@ -1,2 +1,15 @@
 # Sena
-viene con 15 ejercicios html, en la cual esta compuesta por 3 versiones, la primera version: cuenta con 15 ejercicios html, la version 2 esta compuesta con los mismos ejercicios de la version 1, sin embargo estos ejercicios se les desarrollo su debido indentado, documentacion y tambien cambiar las etiquetas obsoletas, validandolas en la W3C. La version 3 son los mismos ejercicios de la version 2 sino que esta contiene hojas de estilo
+Version 1.0.0
+ - codigo original
+ - correcion de errores en el etiquetado
+ - validacion paginas hhtml en la W3C
+Version 2.0.0
+ - Identando a cada una de las etiquetas
+ - Se utilizaron archivos html5
+ - Se cambio cada el titulo a cada una de las paginas
+ - Documentacion en cada una de las paginas
+ - se validaron las paginas html en W3C
+Version 3.0.0
+ - se creo una carpeta de css
+ - se hizo diferente diseño en cada una de las paginas html
+ - Se crearon etiquetas class, id, container. 
