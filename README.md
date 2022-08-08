@@ -1,2 +1,2 @@
 # Sena
-contiene ejercicios de html 
+viene con 15 ejercicios html, en la cual esta compuesta por 3 versiones, la primera version: cuenta con 15 ejercicios html, la version 2 esta compuesta con los mismos ejercicios de la version 1, sin embargo estos ejercicios se les desarrollo su debido indentado, documentacion y tambien cambiar las etiquetas obsoletas, validandolas en la W3C. La version 3 son los mismos ejercicios de la version 2 sino que esta contiene hojas de estilo
