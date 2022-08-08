@@ -1,10 +1,11 @@
+ #informacion    
     ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA
     FICHA: 2558346
     PROGRAMA: Analisis y Desarrollo de Software - ADSO
     AUTOR: Anthony Rincon
     OBJETIVO: Uso de las etiquetas HTML: p, strong, del, em
-    FECHA DE CREACION: Julio 31 2022
-    VERSION: 3.0.0
+    FECHA DE CREACION: Agosto 08 2022
+    VERSIONES: 1.0.0, 2.0.0, 3.0.0 
     FECHA MODIFICACION:Agosto 05 2022
 # Sena
 
