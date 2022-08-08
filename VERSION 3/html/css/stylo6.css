@@ -1,0 +1,14 @@
+.container{
+    font-family: cursive;
+    font-size: 15px;
+    width: 600px;
+    height: 450px;
+    font-weight: bold;
+    color: black;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tit1{
+    color: #634A00;
+}
