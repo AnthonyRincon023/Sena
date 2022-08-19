@@ -27,3 +27,10 @@ Version 3.0.0
  - se creo una carpeta de css
  - se hizo diferente diseño en cada una de las paginas html
  - Se crearon etiquetas class, id, container. 
+ 
+ Version 4.0.0
+ - Se realizo un maquetado de 15 ejercicios de html
+ -nuevas etiquetas (main, header, footer, nav)
+ - Se agrego la respectiva imagen de la w3C
+ - Se agrego el derechos de copyright
+ - Colores de acuerdo al circulo cromatico
