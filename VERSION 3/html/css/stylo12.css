@@ -1,0 +1,13 @@
+body{
+    background-color: #3D0C3C;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#col1{
+    color:azure;
+}
+
+#col2{
+    color:rgb(30, 181, 219);
+}

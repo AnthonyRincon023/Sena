@@ -1,0 +1,12 @@
+
+.container{
+    font-size: 20px;
+    font-family: 'sans-serif, Franklin Gothic Medium', 'Arial Narrow', Arial;
+    width: 250px;
+    height: 250px;
+    font-weight: bold;
+    color: #04D939;
+    background-color: #012340;
+    margin-left: auto;
+    margin-right: auto;
+}
